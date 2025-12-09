@@ -1,0 +1,8 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\bin\Debug\dbo.net.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\bin\Debug\dbo.net.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\bin\Debug\dbo.net.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\obj\Debug\dbo.net.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\obj\Debug\dbo.net.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\obj\Debug\dbo.net.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\obj\Debug\dbo.net.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\8 dec\dbo.net\obj\Debug\dbo.net.exe.config

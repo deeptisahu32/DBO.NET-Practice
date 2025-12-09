@@ -1,0 +1,8 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\bin\Debug\Disconnect practice.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\bin\Debug\Disconnect practice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\bin\Debug\Disconnect practice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\obj\Debug\Disconnect practice.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\obj\Debug\Disconnect practice.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\obj\Debug\Disconnect practice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\obj\Debug\Disconnect practice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\dbo.net\practice\9 dec\Disconnect practice\obj\Debug\Disconnect practice.exe.config
