@@ -1,0 +1,13 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\obj\Debug\EntityPractice.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\obj\Debug\EntityPractice.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\bin\Debug\EntityPractice.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\bin\Debug\EntityPractice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\bin\Debug\EntityPractice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\bin\Debug\EntityFramework.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\bin\Debug\EntityFramework.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\obj\Debug\EntityPr.3DFA4179.Up2Date
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\obj\Debug\EntityPractice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\obj\Debug\EntityPractice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\12 dec\EntityPractice\obj\Debug\EntityPractice.exe.config
